@@ -1,4 +1,4 @@
 nutricao-android
 ================
 
-Ajuda a fazer cálculo nutriciol, implementado em android 
+Ajuda a fazer cálculo nutricional, implementado em android 
